@@ -5,47 +5,47 @@ import "./globals.css";
 const workSans = localFont({
   src: [
     {
-      path: "./fonts/WorkSans-Black.ttg",
+      path: "./fonts/WorkSans-Black.ttf",
       weight: "900",
       style: "normal",
     },
     {
-      path: "./fonts/WorkSans-ExtraBold.ttg",
+      path: "./fonts/WorkSans-ExtraBold.ttf",
       weight: "800",
       style: "normal",
     },
     {
-      path: "./fonts/WorkSans-Bold.ttg",
+      path: "./fonts/WorkSans-Bold.ttf",
       weight: "700",
       style: "normal",
     },
     {
-      path: "./fonts/WorkSans-Black.ttg",
+      path: "./fonts/WorkSans-Black.ttf",
       weight: "600",
       style: "normal",
     },
     {
-      path: "./fonts/WorkSans-Medium.ttg",
+      path: "./fonts/WorkSans-Medium.ttf",
       weight: "500",
       style: "normal",
     },
     {
-      path: "./fonts/WorkSans-Regular.ttg",
+      path: "./fonts/WorkSans-Regular.ttf",
       weight: "400",
       style: "normal",
     },
     {
-      path: "./fonts/WorkSans-Black.ttg",
+      path: "./fonts/WorkSans-Black.ttf",
       weight: "900",
       style: "normal",
     },
     {
-      path: "./fonts/WorkSans-Thin.ttg",
+      path: "./fonts/WorkSans-Thin.ttf",
       weight: "200",
       style: "normal",
     },
     {
-      path: "./fonts/WorkSans-ExtraLight.ttg",
+      path: "./fonts/WorkSans-ExtraLight.ttf",
       weight: "100",
       style: "normal",
     },
